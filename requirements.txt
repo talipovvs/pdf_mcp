@@ -1,0 +1,4 @@
+mcp
+fpdf2
+jinja2
+markdown
